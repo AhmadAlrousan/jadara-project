@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332217502979",
+    "firebase_url": "https://project2-4d216-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "project2-4d216",
+    "storage_bucket": "project2-4d216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332217502979:android:3f916d4aad5925ae05ed36",
+        "android_client_info": {
+          "package_name": "com.example.jadara_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332217502979-r4qsirdafc30ek1jlto7csc0k21522pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpNCjqNtILfOjKA7CRUmJ6Y72d7WEzeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332217502979-r4qsirdafc30ek1jlto7csc0k21522pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
